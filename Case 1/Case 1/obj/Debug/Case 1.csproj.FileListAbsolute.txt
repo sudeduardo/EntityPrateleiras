@@ -1,0 +1,83 @@
+F:\ETEC\DS II\Telas\Case 1\Case 1\bin\Debug\Case 1.exe.config
+F:\ETEC\DS II\Telas\Case 1\Case 1\bin\Debug\Case 1.exe
+F:\ETEC\DS II\Telas\Case 1\Case 1\bin\Debug\Case 1.pdb
+F:\ETEC\DS II\Telas\Case 1\Case 1\obj\Debug\Case 1.csprojResolveAssemblyReference.cache
+F:\ETEC\DS II\Telas\Case 1\Case 1\obj\Debug\Case_1.Form1.resources
+F:\ETEC\DS II\Telas\Case 1\Case 1\obj\Debug\Case_1.Properties.Resources.resources
+F:\ETEC\DS II\Telas\Case 1\Case 1\obj\Debug\Case 1.csproj.GenerateResource.Cache
+F:\ETEC\DS II\Telas\Case 1\Case 1\obj\Debug\Case 1.exe
+F:\ETEC\DS II\Telas\Case 1\Case 1\obj\Debug\Case 1.pdb
+C:\Users\aluno\Desktop\Case 1\Case 1\bin\Debug\Case 1.exe.config
+C:\Users\aluno\Desktop\Case 1\Case 1\obj\Debug\Case 1.exe
+C:\Users\aluno\Desktop\Case 1\Case 1\obj\Debug\Case 1.pdb
+C:\Users\aluno\Desktop\Case 1\Case 1\bin\Debug\Case 1.exe
+C:\Users\aluno\Desktop\Case 1\Case 1\bin\Debug\Case 1.pdb
+C:\Users\aluno\Desktop\Case 1\Case 1\obj\Debug\Case 1.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Case 1\Case 1\obj\Debug\Case_1.Form.FormAcoesProd.resources
+C:\Users\aluno\Desktop\Case 1\Case 1\obj\Debug\Case_1.Form.FormAddPrateleira.resources
+C:\Users\aluno\Desktop\Case 1\Case 1\obj\Debug\Case_1.Form1.resources
+C:\Users\aluno\Desktop\Case 1\Case 1\obj\Debug\Case_1.Properties.Resources.resources
+C:\Users\aluno\Desktop\Case 1\Case 1\obj\Debug\Case 1.csproj.GenerateResource.Cache
+C:\Users\griloxw\Desktop\Case 1\Case 1\bin\Debug\Case 1.exe.config
+C:\Users\griloxw\Desktop\Case 1\Case 1\obj\Debug\Case 1.exe
+C:\Users\griloxw\Desktop\Case 1\Case 1\obj\Debug\Case 1.pdb
+C:\Users\griloxw\Desktop\Case 1\Case 1\bin\Debug\Case 1.exe
+C:\Users\griloxw\Desktop\Case 1\Case 1\bin\Debug\Case 1.pdb
+C:\Users\griloxw\Desktop\Case 1\Case 1\obj\Debug\Case 1.csprojResolveAssemblyReference.cache
+C:\Users\griloxw\Desktop\Case 1\Case 1\obj\Debug\Case_1.Form.FormAcoesProd.resources
+C:\Users\griloxw\Desktop\Case 1\Case 1\obj\Debug\Case_1.Form.FormAddPrateleira.resources
+C:\Users\griloxw\Desktop\Case 1\Case 1\obj\Debug\Case_1.Form1.resources
+C:\Users\griloxw\Desktop\Case 1\Case 1\obj\Debug\Case_1.Properties.Resources.resources
+C:\Users\griloxw\Desktop\Case 1\Case 1\obj\Debug\Case 1.csproj.GenerateResource.Cache
+C:\Users\griloxw\Desktop\Case 1\Case 1\obj\Debug\Case_1.FormAcoesPrat.resources
+F:\Case 1\Case 1\bin\Debug\Case 1.exe.config
+F:\Case 1\Case 1\obj\Debug\Case 1.exe
+F:\Case 1\Case 1\obj\Debug\Case 1.pdb
+F:\Case 1\Case 1\bin\Debug\Case 1.exe
+F:\Case 1\Case 1\bin\Debug\Case 1.pdb
+F:\Case 1\Case 1\obj\Debug\Case 1.csprojResolveAssemblyReference.cache
+F:\Case 1\Case 1\obj\Debug\Case_1.FormAcoesPrat.resources
+F:\Case 1\Case 1\obj\Debug\Case_1.Form.FormAcoesProd.resources
+F:\Case 1\Case 1\obj\Debug\Case_1.Form.FormAddPrateleira.resources
+F:\Case 1\Case 1\obj\Debug\Case_1.Form1.resources
+F:\Case 1\Case 1\obj\Debug\Case_1.Properties.Resources.resources
+F:\Case 1\Case 1\obj\Debug\Case 1.csproj.GenerateResource.Cache
+G:\Case 1\Case 1\bin\Debug\Case 1.exe.config
+G:\Case 1\Case 1\obj\Debug\Case 1.exe
+G:\Case 1\Case 1\obj\Debug\Case 1.pdb
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\bin\Debug\Case 1.exe.config
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\obj\Debug\Case 1.exe
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\obj\Debug\Case 1.pdb
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\bin\Debug\Case 1.exe
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\bin\Debug\Case 1.pdb
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\obj\Debug\Case 1.csprojResolveAssemblyReference.cache
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\obj\Debug\Case_1.FormAcoesPrat.resources
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\obj\Debug\Case_1.Form.FormAcoesProd.resources
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\obj\Debug\Case_1.Form.FormAddPrateleira.resources
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\obj\Debug\Case_1.Form1.resources
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\obj\Debug\Case_1.Properties.Resources.resources
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\obj\Debug\Case 1.csproj.GenerateResource.Cache
+C:\Users\CARLOS\Desktop\Case 1\Case 1\Case 1\bin\Debug\Case 1.exe.config
+C:\Users\CARLOS\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case 1.exe
+C:\Users\CARLOS\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case 1.pdb
+C:\Users\CARLOS\Desktop\Case 1\Case 1\Case 1\bin\Debug\Case 1.exe
+C:\Users\CARLOS\Desktop\Case 1\Case 1\Case 1\bin\Debug\Case 1.pdb
+C:\Users\CARLOS\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case 1.csprojResolveAssemblyReference.cache
+C:\Users\CARLOS\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case_1.FormAcoesPrat.resources
+C:\Users\CARLOS\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case_1.Form.FormAcoesProd.resources
+C:\Users\CARLOS\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case_1.Form.FormAddPrateleira.resources
+C:\Users\CARLOS\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case_1.Form1.resources
+C:\Users\CARLOS\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case_1.Properties.Resources.resources
+C:\Users\CARLOS\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case 1.csproj.GenerateResource.Cache
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\Case 1\bin\Debug\Case 1.exe.config
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case 1.exe
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case 1.pdb
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\Case 1\bin\Debug\Case 1.exe
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\Case 1\bin\Debug\Case 1.pdb
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case 1.csprojResolveAssemblyReference.cache
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case_1.FormAcoesPrat.resources
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case_1.Form.FormAcoesProd.resources
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case_1.Form.FormAddPrateleira.resources
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case_1.Form1.resources
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case_1.Properties.Resources.resources
+C:\Users\LABA10-PC01\Desktop\Case 1\Case 1\Case 1\obj\Debug\Case 1.csproj.GenerateResource.Cache
